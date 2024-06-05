@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #ddd;
+}
+
+body {
+    margin: auto;
+    max-width: 1000px;
+    background-color: #fff;
+    min-height: 100vh;
+    padding: 2em;
+}
