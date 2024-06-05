@@ -1,5 +1,6 @@
-h1 {
-    text-align: center;
+* {
+    --highlight: #36CD98;
+    --background: #E3EBE3;
 }
 
 * {
@@ -9,14 +10,24 @@ h1 {
 html {
     margin: 0;
     padding: 0;
-    background-color: #ddd;
+    background-color: var(--background);
 }
 
 body {
-    margin: auto;
+    margin: 0 auto;
     max-width: 1000px;
     background-color: #fff;
     min-height: 100vh;
     padding: 2em;
     font-family: Open Sans;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    margin: 2em 0;
+    border: none;
+    border-bottom: 3px solid var(--highlight);
 }
