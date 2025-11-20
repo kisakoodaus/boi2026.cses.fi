@@ -1,7 +1,10 @@
+@use "sass:color";
+
 :root {
-    --highlight: #36cd98;
-    --highlight-text: #257056;
-    --background: #e3ebe3;
+    $logo-color: #002f6c;
+    --highlight: #{color.scale($logo-color, $lightness: 10%)};
+    --highlight-text: #{$logo-color};
+    --background: #f4f6f9;
 }
 
 * {
@@ -21,14 +24,27 @@ body {
     min-height: 100vh;
     padding: 2em;
     font-family: Open Sans;
+    font-size: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-evenly;
+
+    img {
+        max-width: 100%;
+    }
 }
 
 h1 {
+    color: var(--highlight-text);
     text-align: center;
     margin: 1.5rem 0;
 }
 
 h2 {
+    color: var(--highlight-text);
+    font-size: 2em;
     padding-bottom: 0.33rem;
     border-bottom: 2px solid var(--highlight);
 }
@@ -37,6 +53,10 @@ hr {
     margin: 2em 0;
     border: none;
     border-bottom: 3px solid var(--highlight);
+
+    .logo + & {
+        margin-top: 0;
+    }
 }
 
 ul img {
@@ -60,7 +80,8 @@ menu {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 1.5em 0;
+    margin: 0;
+    margin-bottom: 1.5em;
     padding: 0.5rem 0.5rem;
     border-bottom: 3px solid var(--highlight);
     border-top: 3px solid var(--highlight);
