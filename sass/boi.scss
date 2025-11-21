@@ -100,3 +100,8 @@ menu a {
 menu a:focus {
     outline: 3px solid var(--highlight);
 }
+
+main {
+    // Make sure that one can scroll the text to a comfortable height
+    min-height: 100vh;
+}
