@@ -10,16 +10,15 @@
     <body>
         <h1>BOI 2026 Finland</h1>
         {% set root = get_section(path="_index.md") %}
-        {% if root.subsections %}
+        {% if root.pages %}
             <menu>
                 <li>
                     <a href="{{ root.permalink | safe }}">{{ root.title }}</a>
                 </li>
-                {% for sec in root.subsections %}
-                    {% set section = get_section(path=sec) %}
+                {% for page in root.pages %}
                     <li>
-                        <a href="{{ section.permalink | safe }}"
-                            >{{ section.title }}</a
+                        <a href="{{ page.permalink | safe }}"
+                            >{{ page.title }}</a
                         >
                     </li>
                 {% endfor %}

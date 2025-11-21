@@ -1,5 +1,6 @@
 +++
 title = "Frontpage"
+sort_by = "weight"
 +++
 
 The Baltic Olympiad in Informatics 2026 will be organized in Finland between April 15&ndash;19, 2026.
