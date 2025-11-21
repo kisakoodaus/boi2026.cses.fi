@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>BOI 2026</title>
+        <meta charset="utf-8" />
+        <link href="/boi.css" rel="stylesheet" />
+        <link href="/fonts.css" rel="stylesheet" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+    <body>
+        <h1>BOI 2026 Finland</h1>
+        {% set root = get_section(path="_index.md") %}
+        {% if root.pages %}
+            <menu>
+                <li>
+                    <a href="{{ root.permalink | safe }}">{{ root.title }}</a>
+                </li>
+                {% for page in root.pages %}
+                    <li>
+                        <a href="{{ page.permalink | safe }}"
+                            >{{ page.title }}</a
+                        >
+                    </li>
+                {% endfor %}
+            </menu>
+        {% else %}
+            <hr />
+        {% endif %}
+        {% block content %}
+        {% endblock content %}
+    </body>
+</html>
