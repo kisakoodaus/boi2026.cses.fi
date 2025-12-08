@@ -3,7 +3,7 @@ title = "Home"
 sort_by = "weight"
 +++
 
-The Baltic Olympiad in Informatics 2026 will be organized in Finland between April 15&ndash;19, 2026.
+The Baltic Olympiad in Informatics 2026 will be organized in Finland during April 15&ndash;19, 2026.
 
 The following countries will be invited: Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway, Poland, Sweden, Ukraine
 
