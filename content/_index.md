@@ -1,5 +1,5 @@
 +++
-title = "Frontpage"
+title = "Home"
 sort_by = "weight"
 +++
 

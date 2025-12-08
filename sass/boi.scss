@@ -117,3 +117,34 @@ main {
     // Make sure that one can scroll the text to a comfortable height
     min-height: 100vh;
 }
+
+.supporter {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    p:nth-child(1) {
+        width: 240px;
+        max-width: 100%;
+    }
+
+    img {
+        width: 100%;
+        max-width: 240px;
+    }
+
+    p:nth-child(2) {
+        flex-grow: 1;
+        margin: 1em 1.5em;
+        flex-basis: 0;
+    }
+
+    @media screen and (max-width: 700px) {
+        flex-direction: column;
+        align-items: flex-start;
+
+        p:nth-child(2) {
+            margin: 0 0 1em;
+        }
+    }
+}
