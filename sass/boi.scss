@@ -5,6 +5,8 @@
     /* --highlight: #{color.scale($logo-color, $lightness: 10%)}; */
     --highlight: #{$logo-color};
     --highlight-text: #{$logo-color};
+    --highlight-text-hover: #{lighten($logo-color, 15%)};
+    --highlight-text-active: #{darken($logo-color, 10%)};
     --background: #f4f6f9;
 }
 
@@ -56,6 +58,21 @@ hr {
     border-bottom: 2px solid var(--highlight);
 }
 
+:link,
+:visited {
+    color: var(--highlight-text);
+}
+
+a {
+    &:hover,
+    &:focus {
+        color: var(--highlight-text-hover);
+    }
+    &:active {
+        color: var(--highlight-text-active);
+    }
+}
+
 ul img {
     width: 220px;
     max-width: 100%;
@@ -88,7 +105,10 @@ menu > li {
 }
 
 menu a {
-    color: inherit;
+    &:link,
+    &:visited {
+        color: inherit;
+    }
     text-decoration: unset;
     font-weight: 600;
 
@@ -99,12 +119,14 @@ menu a {
         background: var(--highlight);
         color: white;
 
-        &:hover {
+        &:hover,
+        &:focus {
             background: var(--highlight);
         }
     }
 
-    &:hover {
+    &:hover,
+    &:focus {
         background: darken(white, 10%);
     }
 
