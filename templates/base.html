@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>BOI 2026</title>
         <meta charset="utf-8" />
+        <title>BOI 2026</title>
         <link href="/boi.css" rel="stylesheet" />
         <link href="/fonts.css" rel="stylesheet" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -18,11 +18,18 @@
         {% if root.pages %}
             <menu>
                 <li>
-                    <a href="{{ root.permalink | safe }}">{{ root.title }}</a>
+                    <a href="{{ root.permalink | safe }}"
+                        {% if current_url %}
+                            {% if current_url == root.permalink %}class="current"{% endif %}
+                        {% endif %}
+                        >{{ root.title }}</a>
                 </li>
                 {% for page in root.pages %}
                     <li>
                         <a href="{{ page.permalink | safe }}"
+                            {% if current_url %}
+                                {% if current_url == page.permalink %}class="current"{% endif %}
+                            {% endif %}
                             >{{ page.title }}</a
                         >
                     </li>
