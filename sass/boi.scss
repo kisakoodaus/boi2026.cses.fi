@@ -170,3 +170,34 @@ main {
         }
     }
 }
+
+.schedule > table {
+    border-collapse: collapse;
+    // Air to layout
+    & > tbody > tr > td,
+    & > thead > tr > th {
+        padding: 0.33rem;
+    }
+    // Headers
+    & > thead > tr > th {
+        border-bottom: 2px solid var(--highlight);
+        color: var(--highlight-text);
+        font-weight: 600;
+        text-align: left;
+    }
+    // Time column
+    & > tbody > tr > td:first-child {
+        color: var(--highlight-text);
+        font-weight: 600;
+        width: 7em;
+        border-right: 2px solid var(--highlight);
+    }
+    // Event column
+    & > tbody > tr > td:nth-child(2) {
+        min-width: 10em;
+    }
+    // Place column
+    & > tbody > tr > td:nth-child(3) {
+        min-width: 10em;
+    }
+}
