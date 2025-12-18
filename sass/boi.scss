@@ -181,21 +181,22 @@ main {
     // Air to layout
     & > tbody > tr > td,
     & > thead > tr > th {
-        padding: 0.33rem;
+        padding: 0.33rem 0.8rem;
+    }
+    & > tbody > tr:first-child > td {
+        padding-top: 0.66rem;
     }
     // Headers
     & > thead > tr > th {
         border-bottom: 2px solid var(--highlight);
-        color: var(--highlight-text);
         font-weight: 600;
         text-align: left;
     }
     // Time column
     & > tbody > tr > td:first-child {
-        color: var(--highlight-text);
         font-weight: 600;
-        width: 7em;
-        border-right: 2px solid var(--highlight);
+        width: 8em;
+        font-variant-numeric: tabular-nums;
     }
     // Event column
     & > tbody > tr > td:nth-child(2) {
