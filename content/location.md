@@ -11,4 +11,8 @@ The event is organized at the Aalto University Otaniemi campus.
 
 The following map shows the location of the contest venue:
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=24.824992418289188%2C60.18493677366308%2C24.832051992416385%2C60.18765987174264&amp;layer=mapnik&amp;marker=60.18629835093486%2C24.828522205352783" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=60.186298&amp;mlon=24.828522#map=18/60.186298/24.828522">View Larger Map</a></small>
+{{ map(pos="14/60.18422/24.82880", markers="[
+  [60.1869724, 24.8216507, 'CS Building'],
+  [60.1788360, 24.8304960, 'Hotel Heymo 1'],
+  [60.1858016, 24.8273291, 'Undergraduate Centre'],
+]") }}
