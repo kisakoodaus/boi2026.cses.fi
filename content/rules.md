@@ -1,6 +1,6 @@
 +++
 title = "Rules"
-weight = 20
+weight = 11
 draft = true
 +++
 
