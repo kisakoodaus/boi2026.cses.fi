@@ -20,7 +20,7 @@ There will be a practice session on Friday, April 15, where the contestants can 
 
 Each contestant will have a desk with a workstation, including a screen, a keyboard and a mouse. The software environment will be the same on all workstations.
 
-Contestants may bring their own stationery (pens, pencils, erasers, etc.). Paper will be available in the contest room, so you should not bring your own paper.
+Contestants may bring their own stationery (pens, pencils, erasers, etc.). Paper will be available in the contest room, and it is not allowed to bring paper.
 
 Each contestant may bring one wired non-programmable USB keyboard and/or one wired non-programmable USB mouse to use instead of the keyboard and mouse that are provided by the organizers. Contestant keyboard and mouse should be presented to the Technical Committee during the practice session and be accepted by a committee member.
 
@@ -30,15 +30,15 @@ Drinks and snacks will be provided during the contest.
 
 Contestants are not allowed to bring any additional reference materials such as books, program listings or notes. Contestants may not bring any electronic devices (phones, smart watches, etc.).
 
-Contestants who want to bring any other items must contact the Jury via their team leaders during the practice session.
+Contestants who want to bring any other items must contact the Jury via their team leaders before the event or during the practice session.
 
-Any stationery, keyboards, mice, dictionaries, or mascots must be brought to the contest room during the practice session. They will be checked and provided to the contestant during the contest sessions.
+Any items to be used during the contest must be brought to the contest room during the practice session. They will be checked and provided to the contestant during the contest sessions.
 
 After the practice session and after the first contest day, the contestant must leave these items on their table if they want to use them during the contest next day. After the second contest day, the contestant must take all of these items with them.
 
 ### Tasks and solutions
 
-The contest tasks posed at BOI 2026 are intended to be of an algorithmic nature. That is, the focus is on designing correct and efficient algorithms. In some tasks, the efficiency of implementation may also be a factor. Each task will be divided into one or more subtasks, each worth a portion of the total points.
+The contest tasks posed at BOI 2026 are algorithmic programming tasks. The focus is on designing correct and efficient algorithms. In some tasks, the efficiency of implementation may also be a factor. Each task will be divided into one or more subtasks, each worth a portion of the total points.
 
 Unless stated otherwise in the task description, the solution of a task is a program written in C++ or Python in one source code file. Solutions must be submitted via the contest system.
 
@@ -68,7 +68,7 @@ The task descriptions are presented in English and the native language of the co
 
 During the contest, communication is allowed only with room supervisors and the Jury.
 
-Contestants may ask a room supervisor for assistance at any time by raising a colored card available on the contestant’s desk. The supervisors will deliver the paper, attend to hardware problems, help to find toilets, etc. However, the supervisors will not answer questions about the contest tasks.
+Contestants may ask a room supervisor for assistance at any time. The supervisors will attend to hardware problems, help to find toilets, etc. However, the supervisors will not answer questions about the contest tasks.
 
 Contestants should submit questions about the contest tasks via the contest system. The question can be written in English or in the contestant's native language. In the latter case the team leader will be asked to translate the question into English.
 
@@ -81,17 +81,11 @@ A question about a task should be phrased so that a yes/no answer is meaningful.
 
 The Jury may give announcements related to tasks or the competition via the contest system.
 
-Contestants are free to phrase their technical or contest related issues in any form. These issues/questions should not be related to contest tasks.
-
 ### Submissions and grading
 
-The contestants submit their solutions via the contest system and can use the system to view the status of their submissions. When a solution is submitted, it will be compiled and graded. After this, the contestant will be able to view the score achieved by this submission and additional feedback if available. Input and output data are not shown to the contestant.
+The contestants submit their solutions via the contest system. After the solution has been graded, the contestant will be able to view the score achieved by the submission and additional feedback if available.
 
 TODO: maximum number of submissions?
-
-<!--
-Contestants may submit at most 50 solutions for each task.
--->
 
 Each submission will be graded on several test cases. Each test case will have one of the following outcomes:
 
@@ -102,6 +96,8 @@ Each submission will be graded on several test cases. Each test case will have o
 - OUTPUT LIMIT EXCEEDED: your program printed too much text
 
 Test cases are grouped into subtasks, each worth some points.
+
+TODO: what will be shown for each subtask?
 
 A subtask is solved if every test in it is solved correctly and within time and memory limits. A submission will receive points for all subtasks that it solves.
 
@@ -115,7 +111,7 @@ Grading procedures for a task can be overridden in the task description.
 
 ### Ending the contest
 
-Contestants will be given warnings 30 and 10 minutes before the end of the contest. After the end of the contest, during the analysis mode, no further submissions will be included in a contestant's score.
+After the end of the contest, no further submissions will be included in a contestant's score.
 
 In case of a technical failure, a contestant or a group of contestants will be granted additional time corresponding to the time that was needed to address the failure.
 
@@ -145,7 +141,7 @@ Moreover, the following rules apply to submissions:
 
 After each contest day, the contestants will have time to check the full results of their submissions, including test data used in grading.
 
-In case of any disagreement with the results, the team leader may submit an appeal during the contest analysis. The Jury will answer each appeal and give a short report to the team leaders about all appeals received after each contest. In the event that every submission of a task should be re-graded and re-scored as a consequence of an accepted appeal, note that re-scoring may result in a higher or lower score for any contestant. Should anyone's score change after grading results have been published, new results will be published again. Score changes resulting from this are not appealable.
+In case of any disagreement with the results, the team leader may submit an appeal during the contest analysis session. The Jury will answer each appeal and give a short report to the team leaders about all appeals received after each contest. In the event that every submission of a task should be re-graded and re-scored as a consequence of an accepted appeal, note that re-scoring may result in a higher or lower score for any contestant.
 
 ### Medal allocation
 
