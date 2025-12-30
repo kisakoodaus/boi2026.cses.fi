@@ -1,12 +1,11 @@
 +++
-title = "Sponsors"
+title = "Supporters"
 weight = 30
-draft = true
 +++
 
-The event is graciously made possible by these sponsors.
+The event is graciously made possible by these supporters.
 
-## Sponsors
+## Supporters
 
 <div class="supporter padding-7">
 
