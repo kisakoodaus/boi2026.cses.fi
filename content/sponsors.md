@@ -8,7 +8,7 @@ The event is graciously made possible by these sponsors.
 
 ## Sponsors
 
-<div class="supporter">
+<div class="supporter padding-7">
 
 ![Jane Street](/assets/jane-street.svg)
 

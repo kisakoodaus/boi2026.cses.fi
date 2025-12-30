@@ -158,6 +158,10 @@ main {
         margin: 0.5em 0;
     }
 
+    &.padding-7 p:nth-child(1) {
+        padding: 7px;
+    }
+
     img {
         width: 100%;
         max-width: 240px;
