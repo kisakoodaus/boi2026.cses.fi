@@ -5,7 +5,7 @@ weight = 30
 
 The event is graciously made possible by these supporters.
 
-## Supporters
+## Sponsors
 
 <div class="supporter padding-7">
 
