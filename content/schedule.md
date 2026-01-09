@@ -15,7 +15,7 @@ time | event | place
 14:00 | Lunch | TBA
 15:00 | Opening ceremony | Otakaari 4, Auditorium 216
 16:30–18:30 | Practice contest | Otakaari 1, Computer labs
-19:00 | Dinner | TBA
+19:00 | Dinner | Maukas (Vuorimiehentie 5)
 20:30 | Leader's meeting | Hotel Heymo 1
 </div>
 
@@ -30,7 +30,7 @@ time | event | place
 14:00 | Lunch | TBA
 15:00 | Contest analysis | Otakaari 1, Computer labs
 16:00 | Leaders' meeting | Otakaari 1, Room M237
-19:00 | Dinner | TBA
+19:00 | Dinner | Maukas (Vuorimiehentie 5)
 </div>
 
 ### Friday, April 17
@@ -44,7 +44,7 @@ time | event | place
 14:00 | Lunch | TBA
 15:00 | Contest analysis | Otakaari 1, Computer labs
 16:00 | Leaders' meeting | Otakaari 1, Room M237
-19:00 | Dinner | TBA
+19:00 | Dinner | Maukas (Vuorimiehentie 5)
 </div>
 
 ### Saturday, April 18
