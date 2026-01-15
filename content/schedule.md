@@ -55,7 +55,7 @@ time | event | place
 --- | --- | ---
 7:00–10:00 | Breakfast | Hotel Heymo 1
 10:00–17:00 | Excursion | TBA
-18:00–22:00 | Closing ceremony | TBA
+18:00–22:00 | Closing ceremony | Dipoli
 </div>
 
 ### Sunday, April 19
