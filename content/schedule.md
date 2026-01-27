@@ -1,7 +1,6 @@
 +++
 title = "Schedule"
 weight = 10
-draft = true
 +++
 
 Notice that the schedule is preliminary and subject to change.
