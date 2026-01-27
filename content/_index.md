@@ -8,6 +8,7 @@ The Baltic Olympiad in Informatics 2026 will be organized in Finland during Apri
 The following countries have been invited: Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway, Poland, Sweden, Ukraine
 
 ## Schedule
+Here is a summary of the schedule. For more information, [see the detailed schedule](/schedule/).
 
 - April 15 (Wednesday): Arrivals, Opening ceremony, Practice contest
 - April 16 (Thursday): Contest day 1
