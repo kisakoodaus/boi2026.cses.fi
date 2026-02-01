@@ -11,7 +11,7 @@ Notice that the schedule is preliminary and subject to change.
 
 time | event | place
 --- | --- | ---
-14:00 | Lunch | TBA
+12:00– | Lunch | TBA
 15:00 | Opening ceremony | Otakaari 4, Auditorium 216
 16:30–18:30 | Practice contest | Otakaari 1, Computer labs
 19:00 | Dinner | Maukas (Vuorimiehentie 5)
