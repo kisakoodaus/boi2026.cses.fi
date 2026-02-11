@@ -4,10 +4,6 @@ weight = 11
 draft = true
 +++
 
-TODO: NOT READY YET
-
-### Participation
-
 The Baltic Olympiad in Informatics 2026 (BOI 2026) is an individual contest between participants from ten member countries (Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway, Poland, Sweden) and one guest country (Ukraine).
 
 Each country can send up to six contestants. All contestants must be eligible to compete in IOI 2026 to participate in BOI 2026.
@@ -24,13 +20,13 @@ Each contestant will have a desk with a workstation, including a screen, keyboar
 
 Contestants may bring their own stationery (pens, pencils, erasers, etc.). Paper will be available in the contest room. It is not allowed to bring paper.
 
-Each contestant may bring one wired non-programmable USB keyboard and/or one wired non-programmable USB mouse to use instead of the keyboard and mouse provided by the organizers. Contestant keyboard and mouse should be presented to the Technical Committee during the practice session and accepted by a committee member.
+Each contestant may bring one wired non-programmable USB keyboard and/or one wired non-programmable USB mouse to use instead of the keyboard and mouse provided by the organizers. Contestant keyboards and mice should be presented to the Technical Committee during the practice session.
 
 Each contestant may bring one printed, non-annotated natural language dictionary. Contestants may bring small mascots such as stuffed toy animals.
 
 Drinks and snacks will be provided during the contest.
 
-Contestants are not allowed to bring any additional reference materials such as books, program listings or notes. Contestants may not bring any electronic devices (phones, smart watches, etc.).
+Contestants are not allowed to bring any additional reference materials such as books, printed program code or notes. Contestants may not bring any electronic devices (phones, smart watches, etc.).
 
 Contestants who want to bring any other items must contact the Jury through their team leaders before the event or during the practice session.
 Any items to be used during the contest must be brought to the contest room during the practice session. These items will be checked and provided to the contestant during the contest sessions.
@@ -39,6 +35,8 @@ After the practice session and after the first contest day, contestant must leav
 ### Tasks and solutions
 
 The contest tasks at BOI 2026 are algorithmic programming tasks. The focus is on designing and implementing correct and efficient algorithms. Each task is divided into one or more subtasks, each worth a portion of the total points.
+
+Contest tasks are provided digitally and in printed form. The tasks are presented in English and the contestant's native language if a translation has been prepared by a team leader. In case of any discrepancies, the English text is binding and official.
 
 Unless stated otherwise in the task description, the solution to a task is a program written in C++ or Python in one source code file. Solutions must be submitted via the contest system.
 
@@ -50,15 +48,7 @@ The Jury guarantees that there are C++ solutions which fit within the specified 
 
 ### Starting the contest
 
-When contestants enter the contest room at the beginning of the contest, their workstations are running. Contest task descriptions are provided digitally via the contest system.
-
-TODO: printed task statements?
-
-<!--
-and in print inside the same envelope. Contestants are not allowed to open the envelopes or touch anything on the workstations until the start signal is given.
--->
-
-The task descriptions are presented in English and the native language of the contestant if such a translation has been prepared by a team leader. In case of any discrepancies, the English text is binding and official.
+When contestants enter the contest room at the beginning of the contest, their workstations are running. Contest tasks are provided in printed form inside an envelope. Contestants are not allowed to open the envelopes or touch anything on the workstations until the start signal is given.
 
 ### Assistance and requests
 
@@ -66,7 +56,7 @@ During the contest, communication is allowed only with room supervisors and the 
 
 Contestants may ask a room supervisor for help at any time. Supervisors will assist with hardware problems, help to find toilets, and similar issues. However, the supervisors will not answer questions about the contest tasks.
 
-Contestants should submit questions about the contest tasks through the contest system. Questions can be written in English or in the contestant's native language. If a question is written in a native language, the team leader will be asked to translate it into English.
+Contestants should submit questions about the contest tasks through the contest system. Questions can be written in English or in the contestant's native language.
 
 A question about a task should be phrased so that a yes/no answer is possible. The Jury will answer every question submitted by the contestants. The answer will be one of the following:
 
@@ -81,8 +71,6 @@ The Jury may give announcements related to tasks or the competition via the cont
 
 The contestants submit their solutions via the contest system. After the solution has been graded, the contestant can view the score achieved by the submission and additional feedback if available.
 
-TODO: maximum number of submissions?
-
 Each submission will be graded on several test cases. Each test case will have one of the following outcomes:
 
 - ACCEPTED: your program produced the correct answer
@@ -93,19 +81,19 @@ Each submission will be graded on several test cases. Each test case will have o
 
 Test cases are grouped into subtasks, each worth some points. The contestant is shown a single outcome for each subtask. If the outcome of each test case is ACCEPTED, the outcome of the subtask is ACCEPTED. Otherwise the outcome of the subtask is the outcome of the first test case that is not ACCEPTED.
 
-A subtask is solved if every test in it is solved correctly and within time and memory limits. A submission will receive points for all subtasks that it solves.
+A subtask is considered solved if every test in it is solved correctly and within time and memory limits. A submission will receive points for all subtasks that it solves.
 
-The final score for a subtask is the maximum of the scores for that subtask over all submissions. The final score for a task is the sum of the final scores for its subtasks.
+The final score for a subtask is the highest score received for that subtask over all submissions. The final score for a task is the sum of the final scores for its subtasks.
 
-The contestants can see their final score for each task in the contest system. However, there is a small chance that the score will change later due to appeals: submissions may be re-graded, and the final score will be that yielded by the last grading.
+Contestants can see their final score for each task in the contest system. However, there is a small chance that the score may change later due to appeals: submissions may be re-graded, and the final score will be based on the last grading.
 
-Grading procedures for a task can be overridden in the task description.
+The grading procedures for a task can be overridden in the task description.
 
 ### Ending the contest
 
-After the end of the contest, no further submissions will be included in a contestant's score.
+After the end of the contest, no further submissions will be counted towards a contestant's score.
 
-In case of a technical failure, a contestant or a group of contestants will be granted additional time corresponding to the time that was needed to address the failure.
+If there is a technical failure, a contestant or group of contestants will be given extra time equal to the time needed to fix the problem.
 
 ### Cheating
 
