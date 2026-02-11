@@ -30,15 +30,15 @@ Contestants are not allowed to bring any additional reference materials such as 
 
 Contestants who want to bring any other items must contact the Jury through their team leaders before the event or during the practice session.
 Any items to be used during the contest must be brought to the contest room during the practice session. These items will be checked and provided to the contestant during the contest sessions.
-After the practice session and after the first contest day, contestant must leave these items on their table if they want to use them during the contest next day. After the second contest day, contestant must take all of these items with them.
+After the practice session and after the first contest day, contestant must leave these items on their table if they want to use them next day. After the second contest day, contestant must take all of these items with them.
 
 ### Tasks and solutions
 
 The contest tasks at BOI 2026 are algorithmic programming tasks. The focus is on designing and implementing correct and efficient algorithms. Each task is divided into one or more subtasks, each worth a portion of the total points.
 
-Contest tasks are provided digitally and in printed form. The tasks are presented in English and the contestant's native language if a translation has been prepared by a team leader. In case of any discrepancies, the English text is binding and official.
+Contest tasks are provided both digitally and in printed form. The tasks are presented in English and the contestant's native language, if a translation has been prepared by a team leader. If there are any discrepancies, the English text is binding and official.
 
-Unless stated otherwise in the task description, the solution to a task is a program written in C++ or Python in one source code file. Solutions must be submitted via the contest system.
+Unless stated otherwise in the task description, the solution to a task is a program written in C++ or Python in one source code file. Solutions must be submitted through the contest system.
 
 Each submitted source code file must not exceed 128 kB, and the evaluation server must be able to compile it in less than 10 seconds using at most 512 MB of memory. The compiled file size must not exceed 2 MB.
 
@@ -54,7 +54,7 @@ When contestants enter the contest room at the beginning of the contest, their w
 
 During the contest, communication is allowed only with room supervisors and the Jury.
 
-Contestants may ask a room supervisor for help at any time. Supervisors will assist with hardware problems, help to find toilets, and similar issues. However, the supervisors will not answer questions about the contest tasks.
+Contestants may ask a room supervisor for help at any time. Supervisors will assist with hardware problems, finding toilets, and similar issues. However, supervisors will not answer questions about the contest tasks.
 
 Contestants should submit questions about the contest tasks through the contest system. Questions can be written in English or in the contestant's native language.
 
@@ -65,11 +65,11 @@ A question about a task should be phrased so that a yes/no answer is possible. T
 - "NO COMMENT" – The contestant is asking for information that the Jury cannot give or the task description contains enough information.
 - "INVALID QUESTION" – The question is not phrased so that a yes/no answer is meaningful. The contestant is encouraged to rephrase the question.
 
-The Jury may give announcements related to tasks or the competition via the contest system.
+The Jury may give announcements related to tasks or the competition through the contest system.
 
 ### Submissions and grading
 
-The contestants submit their solutions via the contest system. After the solution has been graded, the contestant can view the score achieved by the submission and additional feedback if available.
+Contestants submit their solutions through the contest system. After the solution has been graded, the contestant can view the score achieved by the submission and additional feedback if available.
 
 Each submission will be graded on several test cases. Each test case will have one of the following outcomes:
 
