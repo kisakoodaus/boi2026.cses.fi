@@ -1,7 +1,6 @@
 +++
 title = "Rules"
 weight = 11
-draft = true
 +++
 
 The Baltic Olympiad in Informatics 2026 (BOI 2026) is an individual contest between participants from ten member countries (Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway, Poland, Sweden) and one guest country (Ukraine).
