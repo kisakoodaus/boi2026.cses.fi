@@ -42,7 +42,7 @@ Unless stated otherwise in the task description, the solution to a task is a pro
 
 Each submitted source code file must not exceed 128 kB, and the evaluation server must be able to compile it in less than 10 seconds using at most 512 MB of memory. The compiled file size must not exceed 2 MB.
 
-Solutions must run within the time and memory limits, which are specified for each task separately. Limits are applied to individual test runs. Using multiple threads is not allowed.
+Solutions must run within the time and memory limits, which are specified for each task separately. Limits are applied to individual test runs.
 
 The Jury guarantees that there are C++ solutions which fit within the specified memory and time limits. Unless otherwise stated in the task description, solutions are required to read data from standard input and write to standard output.
 
