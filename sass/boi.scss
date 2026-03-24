@@ -143,6 +143,10 @@ menu a {
 main {
     // Make sure that one can scroll the text to a comfortable height
     min-height: 100vh;
+
+    img {
+        max-width: 100%;
+    }
 }
 
 .supporter {
@@ -182,6 +186,10 @@ main {
             margin: 1em 0;
         }
     }
+}
+
+.schedule {
+    overflow-y: scroll;
 }
 
 .schedule > table {
