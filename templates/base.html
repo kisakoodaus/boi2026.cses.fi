@@ -1,8 +1,19 @@
 <!doctype html>
+{% set root = get_section(path="_index.md") %}
+{% if page.title %}
+    {% set page_title = " - " ~ page.title %}
+{% elif section.title %}
+    {% set page_title = " - " ~ section.title %}
+{% else %}
+    {% set page_title = "" %}
+{% endif %}
+{% if current_url and current_url == root.permalink %}
+    {% set page_title = "" %}
+{% endif %}
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>BOI 2026</title>
+        <title>BOI 2026{{ page_title }}</title>
         <link href="/boi.css" rel="stylesheet" />
         <link href="/fonts.css" rel="stylesheet" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,7 +31,6 @@
                 alt="32nd Baltic Olympiad in Informatics, Espoo, Finland, 15&ndash;19 April 2026"
             />
         </picture>
-        {% set root = get_section(path="_index.md") %}
         {% if root.pages %}
             <menu>
                 <li>
