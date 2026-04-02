@@ -70,7 +70,7 @@ The Jury may give announcements related to tasks or the competition through the 
 
 Contestants submit their solutions through the contest system. After the solution has been graded, the contestant can view the score achieved by the submission and additional feedback if available.
 
-Each submission will be graded on several test cases. Each test case will have one of the following outcomes:
+Each submission will be graded on several test inputs. Each test input will have one of the following outcomes:
 
 - ACCEPTED: your program produced the correct answer
 - WRONG ANSWER: your program produced an incorrect answer
@@ -78,7 +78,7 @@ Each submission will be graded on several test cases. Each test case will have o
 - RUNTIME ERROR: an error occurred in the execution of your program, or it used too much memory
 - OUTPUT LIMIT EXCEEDED: your program printed too much text
 
-Test cases are grouped into subtasks, each worth some points. The contestant is shown a single outcome for each subtask. If the outcome of each test case is ACCEPTED, the outcome of the subtask is ACCEPTED. Otherwise the outcome of the subtask is the outcome of the first test case that is not ACCEPTED.
+Test inputs are grouped into subtasks, each worth some points. The contestant is shown a single outcome for each subtask. If the outcome of each test input is ACCEPTED, the outcome of the subtask is ACCEPTED. Otherwise the outcome of the subtask is the outcome of the first test input that is not ACCEPTED.
 
 A subtask is considered solved if every test in it is solved correctly and within time and memory limits. A submission will receive points for all subtasks that it solves.
 
