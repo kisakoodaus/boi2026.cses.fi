@@ -227,3 +227,14 @@ main {
 #map {
     height: 500px;
 }
+
+.footnote-definition {
+    & > sup {
+        display: inline-block;
+        width: 1.5ex;
+        margin-left: -1.5ex;
+    }
+    & > sup + p {
+        display: inline-block;
+    }
+}
