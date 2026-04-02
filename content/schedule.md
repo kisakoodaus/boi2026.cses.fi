@@ -13,9 +13,9 @@ time | event | place
 --- | --- | ---
 12:00– | Lunch | Alvari (Otakaari 1)
 15:00 | Opening ceremony | Otakaari 4, Auditorium 216
-16:30–18:30 | Practice contest | Otakaari 1, Computer labs
+16:00 | Practice contest | Otakaari 1, Computer labs
+17:30 | Leaders' meeting | Otakaari 1, Room M237
 19:00 | Dinner | Maukas (Vuorimiehentie 5)
-20:30 | Leader's meeting | Hotel Heymo 1
 </div>
 
 ### Thursday, April 16
