@@ -28,7 +28,7 @@ We will do our best to accommodate reasonable requests.
 
 ### Hardware
 
-The computers are desktops with [Intel i5-13400](https://www.intel.com/content/www/us/en/products/sku/230495/intel-core-i513400-processor-20m-cache-up-to-4-60-ghz/specifications.html) processors, 64 GB of RAM and a 1TB NVMe SSD.
+The computers are desktops with [Intel i5-13400](https://www.intel.com/content/www/us/en/products/sku/230495/intel-core-i513400-processor-20m-cache-up-to-4-60-ghz/specifications.html) processors, 32 GB of RAM and a 1TB NVMe SSD.
 Computers are equipped with a [Finnish](https://en.wikipedia.org/wiki/List_of_QWERTY_keyboard_language_variants#Swedish)[^1] keyboard, a mouse and a monitor.
 
 [^1]: The same keyboard layout is typically also used in Swedish and Estonian.
