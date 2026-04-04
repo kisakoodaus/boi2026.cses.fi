@@ -70,6 +70,8 @@ The Jury may give announcements related to tasks or the competition through the 
 
 Contestants submit their solutions through the contest system. After the solution has been graded, the contestant can view the score achieved by the submission and additional feedback if available.
 
+It is allowed to make at most 50 submissions per task.
+
 Each submission will be graded on several test inputs. Each test input will have one of the following outcomes:
 
 - ACCEPTED: your program produced the correct answer
