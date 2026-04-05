@@ -7,6 +7,9 @@ The Baltic Olympiad in Informatics 2026 will be organized in Finland during Apri
 
 The following countries have been invited: Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway, Poland, Sweden, Ukraine
 
+Accommodation is provided at [Hotel Heymo 1](https://www.sokoshotels.fi/en/hotels/espoo/heymo-1),
+which is within walking distance from the contest venue.
+
 ## Schedule
 Here is a summary of the schedule. For more information, [see the detailed schedule](/schedule/).
 
