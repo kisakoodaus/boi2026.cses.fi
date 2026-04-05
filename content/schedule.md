@@ -53,7 +53,7 @@ time | event | place
 time | event | place
 --- | --- | ---
 7:00–10:00 | Breakfast | Hotel Heymo 1
-10:30–13:00 | Excursion and lunch | [Megazone Salmisaari](https://megazone.fi/helsinki/en/front-page/?_gl=1*hw437d*_up*MQ..*_gs*MQ..)
+10:30–13:00 | Excursion and lunch | [Megazone Salmisaari](https://megazone.fi/helsinki/en/front-page/)
 13:00–18:00 | Free time in Helsinki
 19:00–22:00 | Closing ceremony | Dipoli (Otakaari 24)
 </div>
