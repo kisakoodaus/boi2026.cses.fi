@@ -28,6 +28,7 @@ time | event | place
 9:00–14:00 | Contest 1 | Otakaari 1, Computer labs
 14:00 | Lunch | Alvari (Otakaari 1)
 15:00 | Contest analysis | Otakaari 1, Computer labs
+16:00 | Invited lecture | Otakaari 4, Auditorium 216
 17:00 | Leaders' meeting | Otakaari 1, Room M237
 19:00 | Dinner | Maukas (Vuorimiehentie 5)
 </div>
@@ -43,6 +44,7 @@ time | event | place
 14:00 | Lunch | Alvari (Otakaari 1)
 15:00 | Contest analysis | Otakaari 1, Computer labs
 17:00 | Leaders' meeting | Otakaari 1, Room M237
+17:00 | Hide and Seek game | Otaniemi
 19:00 | Dinner | Maukas (Vuorimiehentie 5)
 </div>
 
@@ -53,7 +55,7 @@ time | event | place
 time | event | place
 --- | --- | ---
 7:00–10:00 | Breakfast | Hotel Heymo 1
-10:30–13:00 | Excursion and lunch | [Megazone Salmisaari](https://megazone.fi/helsinki/en/front-page/)
+10:00–13:00 | Excursion and lunch | [Megazone Salmisaari](https://megazone.fi/helsinki/en/front-page/)
 13:00–18:00 | Free time in Helsinki
 19:00–22:00 | Closing ceremony | Dipoli (Otakaari 24)
 </div>
