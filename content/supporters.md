@@ -5,7 +5,7 @@ weight = 30
 
 The event is graciously made possible by these supporters.
 
-## Sponsors
+<hr />
 
 <div class="supporter padding-7">
 
@@ -35,13 +35,16 @@ At [Digisalix](https://www.digisalix.com/), we solve real-world R&D puzzles with
 
 </div>
 
-## Foundations
+<hr />
 
-<img src="/assets/wihuri.png" width="150px" alt="Jenny and Antti Wihuri Foundation">
+<img src="/assets/wihuri.png" width="120px" alt="Jenny and Antti Wihuri Foundation">
 
-<br />
-<br />
+<hr />
 
 <div style="padding-left: 10px">
 <img src="/assets/tt100.png" width="350px" alt="Technology Industries of Finland Centennial Foundation">
 </div>
+
+<hr />
+
+<img src="/assets/hiit.png" style="padding: 10px; width:350px" />
