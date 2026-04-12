@@ -23,6 +23,12 @@ Here is a summary of the schedule. For more information, [see the detailed sched
 
 <ul class="horizontal">
     <li><img src="/assets/aalto.png" /></li>
-    <!--<li><img src="/assets/hiit.png" style="padding: 10px" /></li>-->
     <li><img src="/assets/hy.png" /></li>
+</ul>
+
+## Partners
+
+<ul class="horizontal">
+    <li><img src="/assets/hiit.png" /></li>
+    <li><img src="/assets/maol.png" style="width:106px" /></li>
 </ul>
