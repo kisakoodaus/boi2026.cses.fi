@@ -12,7 +12,7 @@ The computers have the following software packages installed on them:
 - Text editors:
   - emacs, gedit, kate, mcedit, nano, neovim, neovim-qt, scite, vim
 - IDEs:
-  - geany, vs-code
+  - geany, vs-code, code::blocks
 - Compilers and interpreters:
   - gcc, g++, clang
   - python3, pypy3
