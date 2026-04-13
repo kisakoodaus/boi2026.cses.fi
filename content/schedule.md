@@ -28,7 +28,7 @@ time | event | place
 9:00–14:00 | Contest 1 | Otakaari 1, Computer labs
 14:00 | Lunch | Alvari (Otakaari 1)
 15:00 | Contest analysis | Otakaari 1, Computer labs
-16:00 | Invited lecture | Otakaari 4, Auditorium 216
+16:00 | Invited lecture | Otakaari 1, Auditorium U154
 17:00 | Leaders' meeting | Otakaari 1, Room M237
 19:00 | Dinner | Maukas (Vuorimiehentie 5)
 </div>
