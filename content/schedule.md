@@ -25,6 +25,7 @@ time | event | place
 time | event | place
 --- | --- | ---
 7:00–8:00 | Breakfast | Hotel Heymo 1
+8:30 | Gathering | Otakaari 1, Main lobby
 9:00–14:00 | Contest 1 | Otakaari 1, Computer labs
 14:00 | Lunch | Alvari (Otakaari 1)
 15:00 | Contest analysis | Otakaari 1, Computer labs
@@ -40,6 +41,7 @@ time | event | place
 time | event | place
 --- | --- | ---
 7:00–8:00 | Breakfast | Hotel Heymo 1
+8:30 | Gathering | Otakaari 1, Main lobby
 9:00–14:00 | Contest 2 | Otakaari 1, Computer labs
 14:00 | Lunch | Alvari (Otakaari 1)
 15:00 | Contest analysis | Otakaari 1, Computer labs
