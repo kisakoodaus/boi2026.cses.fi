@@ -10,6 +10,10 @@ The following countries have been invited: Denmark, Estonia, Finland, Germany, I
 Accommodation is provided at [Hotel Heymo 1](https://www.sokoshotels.fi/en/hotels/espoo/heymo-1),
 which is within walking distance from the contest venue.
 
+## Live scoreboard
+
+You can follow the contest through the [live scoreboard](https://boi2026.cses.fi/scores/).
+
 ## Schedule
 Here is a summary of the schedule. For more information, [see the detailed schedule](/schedule/).
 
