@@ -3,8 +3,6 @@ title = "Schedule"
 weight = 10
 +++
 
-Notice that the schedule is preliminary and subject to change.
-
 ### Wednesday, April 15
 
 <div class="schedule">
@@ -29,7 +27,7 @@ time | event | place
 9:00–14:00 | Contest 1 | Otakaari 1, Computer labs
 14:00 | Lunch | Alvari (Otakaari 1)
 15:00 | Contest analysis | Otakaari 1, Computer labs
-16:00 | Invited lecture | Otakaari 1, Auditorium U154
+16:15 | Invited lecture | Otakaari 1, Auditorium U154
 17:00 | Leaders' meeting | Otakaari 1, Room M237
 19:00 | Dinner | Maukas (Vuorimiehentie 5)
 </div>
