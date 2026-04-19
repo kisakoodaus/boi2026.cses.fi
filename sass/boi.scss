@@ -238,3 +238,16 @@ main {
         display: inline-block;
     }
 }
+
+.scoreboard > table {
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 1px;
+    & > tbody > tr > td,
+    & > tbody > tr > th {
+        border-style: solid;
+        border-width: 1px;
+        font-size: 11pt;
+        padding: 0.1rem 0.4rem;
+    }
+}
