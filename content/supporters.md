@@ -1,7 +1,18 @@
 +++
 title = "Supporters"
 weight = 30
+
+in_search_index = false
+
+[extra]
+hidden = true
 +++
+
+<meta http-equiv="refresh" content="0; url=/" />
+
+Content moved to the [home page](/).
+
+<!--
 
 The event is graciously made possible by these supporters.
 
@@ -48,3 +59,5 @@ At [Digisalix](https://www.digisalix.com/), we solve real-world R&D puzzles with
 <hr />
 
 <img src="/assets/hiit.png" style="padding: 10px; width:350px" />
+
+-->

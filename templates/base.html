@@ -41,6 +41,7 @@
                         >{{ root.title }}</a>
                 </li>
                 {% for page in root.pages %}
+                    {% if not page.extra.hidden %}
                     <li>
                         <a href="{{ page.permalink | safe }}"
                             {% if current_url %}
@@ -49,6 +50,7 @@
                             >{{ page.title }}</a
                         >
                     </li>
+                    {% endif %}
                 {% endfor %}
             </menu>
         {% else %}
