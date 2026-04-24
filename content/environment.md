@@ -1,6 +1,6 @@
 +++
 title = "Environment"
-weight = 15
+weight = 13
 +++
 
 Each contestant is given a desktop Linux computer running Ubuntu 24.04 with XFCE desktop environment.

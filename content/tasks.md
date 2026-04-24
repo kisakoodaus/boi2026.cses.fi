@@ -1,6 +1,6 @@
 +++
 title = "Tasks"
-weight = 12
+weight = 15
 +++
 
 ### Practice contest

@@ -1,6 +1,6 @@
 +++
 title = "Results"
-weight = 15
+weight = 20
 +++
 
 <div class="scoreboard">
