@@ -26,6 +26,7 @@ Aino Haavisto,
 Juha Harviainen,
 Veikko Heikkinen,
 Siiri Kuoppala,
+Matias Lahti,
 Olli Matilainen,
 Alesya Raevskaya,
 Théo Salmenkivi-Friberg,
@@ -34,8 +35,8 @@ Topi Talvitie,
 Anni Tapionlinna,
 Karpalo Toivonen,
 Johanna Tuhkanen,
-Tuukka Yildirim,
-Leo Varis
+Leo Varis,
+Tuukka Yildirim
 
 #### Special thanks to
 
