@@ -1,0 +1,23 @@
+{
+  "title": "BOI 2026",
+  "days": [
+    {
+      "title": "Day 1",
+      "source": "/scores/data/day1",
+      "mode": "static"
+    }
+  ],
+  "countries": {
+    "FI": { "name": "Finland", "flag": "flags/fi.png" },
+    "SE": { "name": "Sweden", "flag": "flags/se.png" },
+    "NO": { "name": "Norway", "flag": "flags/no.png" },
+    "DK": { "name": "Denmark", "flag": "flags/dk.png" },
+    "IS": { "name": "Iceland", "flag": "flags/is.png" },
+    "EE": { "name": "Estonia", "flag": "flags/ee.png" },
+    "LV": { "name": "Latvia", "flag": "flags/lv.png" },
+    "LT": { "name": "Lithuania", "flag": "flags/lt.png" },
+    "DE": { "name": "Germany", "flag": "flags/de.png" },
+    "PL": { "name": "Poland", "flag": "flags/pl.png" },
+    "UA": { "name": "Ukraine", "flag": "flags/ua.png" }
+  }
+}
